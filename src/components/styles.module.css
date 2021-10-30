@@ -1,0 +1,21 @@
+.contentwrapper{
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+.mainTitle{
+    font-size: 50%;
+    font-weight: 500;
+}
+.counterContainer{
+    width: 30px;
+    margin-left: 50%;
+}
+.inputSection{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
